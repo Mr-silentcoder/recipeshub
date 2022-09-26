@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_home"
+        text="@string/home"/>
+
+    <tab
+        drawable="@drawable/restaurant_menu"
+        text="@string/explore" />
+    <tab
+        drawable="@drawable/category"
+        text="@string/category" />
+    <tab
+        drawable="@drawable/ic_heart"
+        text="@string/fave" />
+
+
+
+</tabs>

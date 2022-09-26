@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recipes Hub</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="fave">Favorite</string>
+    <string name="category">Category</string>
+    <string name="favtext">Your favorite list is empty because you\n don\'t add any reciped in the favorite\n menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
