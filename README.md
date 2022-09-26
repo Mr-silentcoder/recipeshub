@@ -30,5 +30,5 @@ Android Studio Electric Eel | 2022.1.1 Beta 1
  <br/>
 <h2> Video </h2>
 
-[![Video](https://img.youtube.com/vi/M1WPfVt7ugc/hqdefault.jpg)](https://youtu.be/M1WPfVt7ugc)
+[![Video](https://img.youtube.com/vi/M1WPfVt7ugc/hqdefault.jpg)](https://www.youtube.com/watch?v=M1WPfVt7ugc)
 <br/>
